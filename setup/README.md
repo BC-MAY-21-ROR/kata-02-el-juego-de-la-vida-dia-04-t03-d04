@@ -1,6 +1,6 @@
 # Setup
 
-![RubyCritic](./gameOfLife/badges/rubycritic_badge_score.svg)
+![RubyCritic](../gameOfLife/badges/rubycritic_badge_score.svg)
 
 Escribe aquí los pasos para ejecutar/probar tu proyecto y el nombre de los integrantes de tu equipo
 
